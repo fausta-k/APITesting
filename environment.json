@@ -1,0 +1,21 @@
+{
+	"id": "12e6b439-c537-4f90-9c57-db87e0e66136",
+	"name": "API Newman & Postman",
+	"values": [
+		{
+			"key": "APIKey",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "http://httpbin.org",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-01-21T13:12:34.249Z",
+	"_postman_exported_using": "Postman/9.8.3"
+}
